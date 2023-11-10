@@ -1,0 +1,125 @@
+body{
+    background-color: #100F1F;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+  display: flex;
+  margin: 1rem;
+  margin-top: 5rem;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cuchara{
+  display: flex;
+  width: 6.25rem;
+  height: 6.25rem;
+  padding: 1.1875rem 1.5625rem 1.1875rem 1.625rem;
+  border-radius: 3.125rem;
+  background: #FAF4E6;
+  margin-bottom: 1.5rem;
+}
+
+.cuchara>img{
+  width: 4rem;
+}
+
+
+
+.tit1{
+    color: #FFF;
+    text-align: center;
+    font-family: Lalezar;
+    font-size: 3.375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.tit2{
+    color: #F4F3F8;
+    text-align: center;
+    font-family: Chenla;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+.login > ion-item{
+    --background: #100F1F;
+    color: white;
+    margin: 1rem;
+    margin-top: 5rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    border: 1px solid white;
+    border-radius: 2rem;
+}
+
+.password > ion-item{
+    --background: #100F1F;
+    color: white;
+    margin: 1rem;
+    margin-top: 1rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    border: 1px solid white;
+    border-radius: 2rem;
+}
+
+.a{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
+
+.b1{
+    display: flex;
+    width: 14.75rem;
+    height: 3.75rem;
+    padding: 0.625rem;
+    margin-top: 4.5rem;
+    margin-right: 6.5rem;
+    margin-left: 6.5rem;
+    border-radius: 2.5rem;
+    background: #F24B4B;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Lalezar;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 800;line-height: normal;
+}
+
+.text1{
+    display: flex;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+.text1>h4{
+    margin: 0%;
+    
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    margin: 0.5rem;
+    justify-content: center;
+}
+
+.images > a{
+    width: 2.4rem;
+    margin: 0.5rem;
+    margin-top: 1rem;
+}
+
+
