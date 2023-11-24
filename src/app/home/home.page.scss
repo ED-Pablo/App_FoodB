@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ion-content{
   --background: #100F1F;
 }
@@ -30,10 +31,17 @@ ion-content{
   display: flex;
   flex-direction: column;
   align-items: center;
+=======
+body{
+  background-color: #100F1F;
+  display: flex;
+  flex-direction: column;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
 }
 
 .logo{
   display: flex;
+<<<<<<< HEAD
   align-content: center;
   background-color: #FFF;
   width: 7rem;
@@ -42,6 +50,29 @@ ion-content{
   border-radius: 50%;
   margin-bottom: 2rem;
   margin-top: 3.5rem;
+=======
+  margin: 1rem;
+  margin-top: 5rem;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cuchara{
+  display: flex;
+  width: 6.25rem;
+  height: 6.25rem;
+  padding: 1.1875rem 1.5625rem 1.1875rem 1.625rem;
+  border-radius: 3.125rem;
+  background: #FAF4E6;
+  margin-bottom: 1.5rem;
+
+
+  
+}
+
+.cuchara>img{
+  width: 4rem;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
 }
 
 .tit1{
@@ -50,7 +81,11 @@ ion-content{
   font-family: Lalezar;
   font-size: 3.375rem;
   font-style: normal;
+<<<<<<< HEAD
   font-weight: 800;
+=======
+  font-weight: 400;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
   line-height: normal;
 }
 
@@ -60,18 +95,30 @@ ion-content{
   font-family: Chenla;
   font-size: 1.125rem;
   font-style: normal;
+<<<<<<< HEAD
   font-weight: 300;
   line-height: normal;
 }
 
 
 .login{
+=======
+  font-weight: 400;
+  line-height: normal;
+}
+
+.a{
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
   display: flex;
   align-items:center ;
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .signup{
+=======
+.b{
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
   display: flex;
   align-items:center ;
   justify-content: center;
@@ -119,7 +166,10 @@ ion-content{
 }
 
 .c{
+<<<<<<< HEAD
   margin-top: 5rem;
+=======
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
   display: flex;
   align-items:center ;
   justify-content: center;

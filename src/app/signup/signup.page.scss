@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ion-content{
     --background: #100F1F;
 }
@@ -38,6 +39,26 @@ ion-content{
     display: flex;
     background-color: #F4F3F8;
     margin-top: 4rem;
+=======
+body{
+    background-color: #100F1F;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+  display: flex;
+  margin: 1rem;
+  margin-top: 5rem;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.logo > div > ion-icon{
+    display: flex;
+    background-color: #F4F3F8;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
     width: 3rem;
     height: 4rem;
     padding: 1.1875rem 1.5625rem 1.1875rem 1.625rem;
@@ -46,6 +67,10 @@ ion-content{
     margin-bottom: 1.5rem;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
 .tit1{
     color: #FFF;
     text-align: center;
@@ -56,13 +81,22 @@ ion-content{
     line-height: normal;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
 .login > ion-item{
     --background: #100F1F;
     color: white;
     margin: 1rem;
+<<<<<<< HEAD
     margin-top: 1.2rem;
     width: 16.5rem;
+=======
+    margin-top: 1.8rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
     border: 1px solid white;
     border-radius: 2rem;
 }
@@ -71,14 +105,21 @@ ion-content{
     --background: #100F1F;
     color: white;
     margin: 1rem;
+<<<<<<< HEAD
     margin-top: 1.2rem;
     width: 16.5rem;
+=======
+    margin-top: 1.8rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
     border: 1px solid white;
     border-radius: 2rem;
 }
 
 .a{
     display: flex;
+<<<<<<< HEAD
     margin: 0%;
 }
 
@@ -87,4 +128,16 @@ ion-content{
     color: #FFF;
     font-size: 4rem;
     margin: 0%;
+=======
+    align-items:center ;
+    justify-content: center;
+}
+
+.b1{
+    display: flex;
+    padding: 0.625rem;
+    margin-top: 1rem;
+    color: #FFF;
+    font-size: 4rem;
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
 }

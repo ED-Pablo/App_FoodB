@@ -19,10 +19,13 @@ const routes: Routes = [
     path: 'signup',
     loadChildren: () => import('./signup/signup.module').then( m => m.SignupPageModule)
   },
+<<<<<<< HEAD
   {
     path: 'category-f',
     loadChildren: () => import('./category-f/category-f.module').then( m => m.CategoryFPageModule)
   },
+=======
+>>>>>>> ab4daff3e2f753a21f6b1128f34422708fd95be1
 ];
 
 @NgModule({
